@@ -4,7 +4,7 @@ repository local trên laptop
 repository remote trên github
 
 git init: khởi tạo repo local
-"git remote add"(câu lệnh bắt buộc có) https://github.com/GoldenMonkey799/bc67-demo-git.git , đây là liên kết repo local và repo remote
+"git remote add origin"(câu lệnh bắt buộc có) https://github.com/GoldenMonkey799/bc67-demo-git.git , đây là liên kết repo local và repo remote
 
 Đưa code lên github có 3 bước:
 - git add -A
