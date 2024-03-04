@@ -11,5 +11,7 @@ git init: khởi tạo repo local
 - git commit -m "nội dung commit"
 - git push -u origin master (lần đầu tiên)/ git push (lần thứ 2 trở đi)
 
-tạo nhánh, chuyển nhánh
+tạo nhánh, chuyển nhánh: commit trước khi thao tác
 git checkout -b tên nhánh mới
+git branch : hiển thị nhánh hiện tại
+git checkout ' tên nhánh cần chuyển ' : chuyển sang nhánh khác
