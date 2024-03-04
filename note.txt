@@ -10,3 +10,6 @@ git init: khởi tạo repo local
 - git add -A
 - git commit -m "nội dung commit"
 - git push -u origin master (lần đầu tiên)/ git push (lần thứ 2 trở đi)
+
+tạo nhánh, chuyển nhánh
+git checkout -b tên nhánh mới
